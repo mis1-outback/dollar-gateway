@@ -1,6 +1,0 @@
-server:
-  port: 28083
-
-spring:
-  application:
-    name: gateway
